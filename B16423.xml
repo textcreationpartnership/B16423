@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable the house of commons novv assembled in Parliament. The humble remonstrance of the grievances of all his majesties posts of England, together with carryers, waggoners, and others, miserably sustained by the unlawfull projects of Thomas Witherings, sometimes mercer of London.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16423</idno><idno type="EEBO-CITATION">99891860</idno>
+  <idno type="VID">186532</idno>
+  <idno type="EEBO-PROQUEST">2240909694</idno>
+  
+            <idno type="STC">STC 25930.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.h.4[75]</idno>
+            <idno type="STC">ESTC S114724</idno>
+            <idno type="PROQUEST">ocm99891860</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891860e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186532)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:1[75])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable the house of commons novv assembled in Parliament. The humble remonstrance of the grievances of all his majesties posts of England, together with carryers, waggoners, and others, miserably sustained by the unlawfull projects of Thomas Witherings, sometimes mercer of London.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1640]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and publication date from STC; a reply is dated 1642? by Wing (cf. Wing F2276).</note>
+                  <note>Formerly STC 7753.</note>
+                  <note>Identified as STC 7753 on UMI microfilm Early English books, reel 1270.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Witherings, Thomas, d. 1651 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term type="topical_term">Postal service --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:186532:1"/>
+            <pb facs="tcp:186532:1"/>
+            <head>TO THE HONOVRABLE THE HOVSE OF COMMONS NOVV ASSEM<g ref="char:EOLhyphen"/>BLED IN PARLIAMENT. The Humble Remonstrance of the Grievances of all his Majesties Posts of <hi>England,</hi> Together with Carryers, Waggoners, and others, miserably sustained by the unlawfull Projects of <hi>Thomas Witherings,</hi> sometimes Mercer of <hi>London.</hi>
+            </head>
+            <p>
+               <hi>FIRST,</hi>
+               <seg rend="decorInit">T</seg>HAT the said Mr. <hi>Witherings,</hi> by Proclamation of July, 1635. did unjustly thrust Thirteene Post-Masters, and their two Factors' out of their imployments; for the weekely conveyance of all mens Letters, betweene <hi>London</hi> and <hi>Plymouth:</hi> which they them<g ref="char:EOLhyphen"/>selves, (long before the said Proclamation) at their great labours and expences, had set up: To the great contentment of all his Majesties Subjects; And thereby the said <hi>Witherings</hi> did ingrosse to himselfe forty pound <hi>per annum,</hi> out of each of their la<g ref="char:EOLhyphen"/>bours, amounting to 600. pound <hi>per annum,</hi> and so continued till his Majesties Sequestration, in July 1640. being five yeares, or thereabouts, which comes to 3000. pound.</p>
+            <p>
+               <hi>Secondly,</hi> That the said Mr. <hi>Witherings,</hi> from July aforesaid 1635. did pay unto the Post-Masters of <hi>Yorke, Chester,</hi> and other Roades, for some short time, sixe pence <hi>per</hi> mile, and afterwards fell to three pence <hi>per</hi> mile, for the weekely carrying, and re-carrying, of all mens Letters upon those Roades, untill he had gotten his Monopoly Patent of 1637. Then by vertue of the said Patent, he compelled the said Post-Masters, forcing them to runne two thousand miles every weeke, to carry all mens Letters for nothing. Thereby violently taking out of their la<g ref="char:EOLhyphen"/>bours likewise, the summe of 678. pound <hi>per annum,</hi> and upwards, which he also so continued, till his Majesties Sequestration aforesaid, which comes to 2035. pound, 4. shillings, and 8. pence. So the whole summe, which the said <hi>Witherings</hi> hath extorted out of the Labours, and Callings, of a thousand persons, the Post-Masters, and their Families, amounts to 5038. pound, 4. shillings, and 8. pence. Besides 4000. pound he made and re<g ref="char:EOLhyphen"/>ceived for Post-places, within the compasse of three yeares, or thereabouts.</p>
+            <p>
+               <hi>Thirdly,</hi> That whereas the Post-Masters had formerly 4000. pound <hi>per annum</hi> Fee, onely for carrying his Majesties Pacquets, which summe being divided amongst them, comes not to above 20. pence, 2. shillings, or 3. shillings, to each mans share, <hi>per diem,</hi> or thereabouts, And for which service the Post-Masters, were enjoyned to keepe two or three servants, and horses, purposely to attend that service, yet <hi>Witherings</hi> under pretence of doing his Majesty some extraordinary service, reduced the said 4000. pound <hi>per annum,</hi> to 2053. pound <hi>per annum.</hi> And yet paid them the same out of the fruites of their owne Labours, And gave also out of the benefit which he gained out of their said Labours, 1500. pound <hi>per annum,</hi> to the then Secretaries of State, for the supporting, and securing the said Monopoly Patent, thereby altogether Monopolizing other mens labours to his owne particular profit, contrary to the Lawes, and Constitutions of this Kingdome, and of free Subjects, whereas the Lord <hi>Stanhope,</hi> had nothing out of their labours. Onely he had 100. Markes <hi>per annum,</hi> and that payable out of his Majesties Exchequer.</p>
+            <p>
+               <hi>Fourthly,</hi> That the said <hi>Witherings,</hi> by vertue likewise of his Monopoly Patent, imprisoned Carryers, and Waggoners (a long time together, and would not release them without giving great Bond, to bring all Letters to his Office) for carrying the Letters of his Majesties Subjects, causing their Bagges and Fardels to be ript open, violently taking their Goods and Letters from them, to their great prejudice and losse, and to the great hin<g ref="char:EOLhyphen"/>derance of all commerce betweene his Majesties loving Subjects.</p>
+            <p>
+               <hi>Fifthly,</hi> That as soone as his Majesty did fully understand, what great oppressions and wrongs <hi>Witherings</hi> had committed, in the execution of the said Patent, against the Post-Masters, and others his Majesties Subjects; his Majesty was gratiously pleased to Sequester the same into the hands of <hi>Phillip Burlemache,</hi> ordering him to pay 1500. pound <hi>per annum,</hi> to the said Post-Masters, formerly given to the then Secretaries of State, being the fruites of their owne labours, which said addition of 1500. pound <hi>per annum,</hi> is now paid by Mr. <hi>Burlemache</hi> unto the Post-Masters, according to his Majesties gratious appointment: his Majesty referring the full settlement thereof unto this Honorable House.</p>
+            <p>
+               <hi>Sixthly,</hi> That the said <hi>Witherings,</hi> by his projecting, and insinuating wayes, to the aforesaid Secretaries of State, hath not onely barred, and cut off the Post-Masters from making suite to his Majesty, for their just arreares of 30982. pound, or thereabouts, to the utter undoing of a great num<g ref="char:EOLhyphen"/>ber of his Majesties poore Servants. (Some part of which arreares, being the whole Estates, and Portions of divers poore Widdowes, and Father-lesse Children.) But also very cunningly contracted with divers of them to take a third part for the whole, or else they were to receive nothing at all, and some of them being greatly necessitated, were constrained so to doe. But some others, although they so contracted, yet they could receive none of that Composition.</p>
+            <p>
+               <hi>Seventhly,</hi> That by reason of the multitude of Post-warrants granted to any person for a small gratuity, and likewise divers Pacquets, com<g ref="char:EOLhyphen"/>manded to be carryed for persons not nominated, or allowed by his Majesties Orders, (which Pacquets might as well goe against, as for the State) the Post-Masters (being so over-charged, having not sufficient wages to keepe a competent number of horses to discharge their places) have beene enforced to presse and charge the Country with horses, and thereby subject to their arrests, cryes, and complaints.</p>
+            <p>
+               <hi>Eighthly,</hi> That when the Sequestration of the Letter-Office for forraigne parts, was in examination before M<seg rend="sup">r</seg>. <hi>Glyn,</hi> then the Post-Masters, Carryers, Waggoners, and others, petitioned this Honourable House, against M<seg rend="sup">r</seg>. <hi>Witherings</hi> Monopoly Patent, for the In-land Letter-Office, But because Mr. <hi>Witherings</hi> Counsell, confessed that the same Patent to be a Monopoly, and that they could say nothing for it, nor would meddle in it, therefore the said Patent at that time was no further questioned.</p>
+            <p>
+               <hi>All which Premisses considered, they most humbly beseech this Honourable House to Commiserate their great pressures, and that according to Justice they may be relieved.</hi>
+            </p>
+            <closer>And as in duty bound, they shall dayly pray, and praise God for the happy proceedings of <hi>Parliaments.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
